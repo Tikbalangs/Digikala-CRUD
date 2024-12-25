@@ -21,9 +21,11 @@ To run the project, follow these instructiions:
 
 3) Login (ورود | ثبت نام) as either a user, or admin.
 
-> username: ala / password: alapass
 
-> username: admin / password: adminpass
+| Username | Password |
+|-----|-----------|
+|     admin| adminpass|
+|     ala| alapass|
 
 Note that "Admin" has access to change the database while managing data, and the user "ala" doesn't. (kind of ironic since I'm the creator, isn't it?)
 
