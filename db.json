@@ -1,0 +1,900 @@
+{
+  "slider": [
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3932760b5a3f40d2f853b4ba951621914869333d_1727794899.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "The Coldest Sunset",
+      "title": "بومی",
+      "id": "2"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/366af06afc6ce9cd0e1add94ee875b011256210c_1728194389.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "slider3",
+      "title": "آغوش مادر",
+      "id": "3"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c6369a14eae222286e076bbf192da17d536acf93_1726298734.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "slider4",
+      "title": "بهداشتی آقایان",
+      "id": "4"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/834ff3ba980e064348b2a2962f8fbeed96e59b90_1725639060.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "city lights",
+      "title": "تخفیف لوازم آشپزخانه",
+      "id": "4d00"
+    },
+    {
+      "id": "c1dd",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/d60e28b080856cd27e49cc9e39650c16b67b02f6_1726657216.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "اسپیکر ",
+      "title": "به فکر جیبت هستیم"
+    },
+    {
+      "id": "dbbe",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/e9bf624c0e725250054f27f28dedb56419a72b36_1728394587.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "kids",
+      "title": "kids"
+    }
+  ],
+  "swiperCircle": [
+    {
+      "id": "1",
+      "title": "خودکارهای فانتزی",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d5ae32ffd52b291427af8fa44f79ff4398955ac9_1726346466.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": "2",
+      "title": "اسباب بازی یا ظرف",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8aaa98f1b707ca0fa41018a6b139f507d31bea1a_1724014741.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/c5c6e00ad564c72798569e52b74e849eceda7a2b_1723963614.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "هندزفری",
+      "id": "3"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/09f39e6e2b5e1c4fbcef591914e8fcfba4882670_1726850827.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "بهترین ماگ های فانتزی دیجی‌کالا!",
+      "id": "4"
+    },
+    {
+      "id": "6",
+      "title": "اسباب بازی یا ظرف",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8aaa98f1b707ca0fa41018a6b139f507d31bea1a_1724014741.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": "7",
+      "title": "خودکارهای فانتزی",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d5ae32ffd52b291427af8fa44f79ff4398955ac9_1726346466.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/708e4a763f7753c11c10810767dd388b9cd32bdf_1726389139.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "چراغ مطالعه هوشمند",
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "title": "اسباب بازی یا ظرف",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8aaa98f1b707ca0fa41018a6b139f507d31bea1a_1724014741.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": "5007",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d03ce04d68a0a267eb9bf12d6fe388a7635eebe5_1725648165.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "معرفی بازی پتیل"
+    },
+    {
+      "id": "381a",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/64f857bcc077f5902c20030259bce29696909e11_1726406770.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "پک خودکار نئونی"
+    },
+    {
+      "id": "5866",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/eccbf9f90e6489386341530d1d0a3dffd7dbdce3_1723314287.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "کتاب آبرنگ کودکان"
+    },
+    {
+      "id": "eda0",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/708e4a763f7753c11c10810767dd388b9cd32bdf_1726389139.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "چراغ مطالعه هوشمند"
+    },
+    {
+      "id": "5a2e",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/09a8a3bf289668ded8254bd170e59e78071d49ce_1726470658.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "کوله ضد آب"
+    },
+    {
+      "id": "1a48",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/08a61cf2cb585dfe514533633b860ea0496f3766_1734377384.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "آیفون 13"
+    }
+  ],
+  "amazingOffer": [
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-products/02b44f5addbdebd0883d9cdc69df0fd75f8441bc_1667629951.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "هندزفری",
+      "title": "هندزفری کلومن مدل KE - 001",
+      "newPrice": "۹۹,۰۰۰",
+      "oldPrice": "۲۷۶,۰۰۰",
+      "discount": "۶۴",
+      "id": "1"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a196c9812c77ad370d9c2ca8147962e1549f3c97_1627987489.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپیکر ",
+      "title": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل PARTYBOX 110",
+      "newPrice": "۱۶,۸۹۹,۰۰۰",
+      "oldPrice": "۱۸,۳۹۹,۰۰۰",
+      "discount": "۸",
+      "id": "66fe"
+    },
+    {
+      "id": "715d",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fe320ae9da56c8946b99d4f1dce3a8489429c5f8_1715083179.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "تلویزیون",
+      "title": "تلویزیون ال ای دی هوشمند ایکس ویژن مدل 65XCU645 سایز 65 اینچ",
+      "newPrice": "۳۰,۶۱۹,۰۰۰",
+      "oldPrice": "۳۸,۴۰۰,۰۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "3f18",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ec003812707754c8af33403a3a0dfd2b02b5237f_1699095196.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "نرم کننده ",
+      "title": "نرم کننده حوله و لباس اکتیو مدل آبی حجم 2500 میلی لیتر",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۲"
+    },
+    {
+      "id": "16a4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/60a1fe29b4e8235eacaa407f86c08ed162477f9e_1703585220.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "قرص ماشين ظرفشويی",
+      "title": "قرص ماشين ظرفشويی هوم پلاس مدل Lemon بسته 48 عددی",
+      "newPrice": "۲۴۹,۰۰۰",
+      "oldPrice": "۳۱۷,۸۰۰",
+      "discount": "۲۲"
+    },
+    {
+      "id": "9778",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f976e45d136f3a266b6ddf4194797eb6547b7036_1696666752.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "ست ماشین اصلاح",
+      "title": "ست ماشین اصلاح موی صورت و بدن فیلیپس مدل MG7736",
+      "newPrice": "۱,۸۳۹,۰۰۰",
+      "oldPrice": "۲,۹۰۰,۰۰۰",
+      "discount": "۳۷"
+    },
+    {
+      "id": "c851",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/31179608f696b7220b889d441f34dcfdd02de6f7_1701503329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "کیف دستی",
+      "title": "کیف دستی لیدوما مدل 652",
+      "newPrice": "۲۴۰,۰۰۰",
+      "oldPrice": "۳۱۷,۸۰۰",
+      "discount": "۲۲"
+    },
+    {
+      "id": "fc5a",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/27158e69233c0282988188825f4a0339902eb5c3_1719999861.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "قرص ماشين ظرفشويی",
+      "title": " قرص ماشین ظرفشویی فست دراپ مدل All In 1 بسته 28 عددی",
+      "newPrice": "۱۹۲,۴۹۰",
+      "oldPrice": "۲۷۵,۰۰۰",
+      "discount": "۳۷"
+    },
+    {
+      "id": "97a1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bcf25d352a57200f74bac7ba4399cedb1df136e3_1662491144.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپیکر ",
+      "title": "جامدادی مدل BRW",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/0c46d2532d61dd3a5b6a3afc17552c23c1b4d39e_1692600773.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "alt": "toy",
+      "title": "اسباب بازی، کودک و نوزاد"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/20c179dff5c513104599d33858b6b11e77ced9b4_1692601532.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "کارت هدیه و گیفت کارت ",
+      "alt": "کارت هدیه",
+      "id": "c934"
+    },
+    {
+      "id": "d8c5",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/d17e98a20e1681c7bac5af856aa9552250ec9a96_1710666504.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "طلا و نقره",
+      "alt": "طلا و نقره"
+    },
+    {
+      "id": "0724",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/5d89d5b168e5ed079d619181e849cc737ec42c8d_1692601067.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "ابزار آلات و تجهیزات",
+      "alt": "ابزار آلات و تجهیزات"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/4e985adcf61dd54d4d8abe725a62ba3990ea1eb1_1692601177.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "خودرو و موتورسیکلت",
+      "alt": "خودرو و موتورسیکلت",
+      "id": "dbe2"
+    },
+    {
+      "id": "a49b",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/da24c42172585abb0c328accf85d071049c4253e_1692600598.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "کالای خوراکی و اساسی",
+      "alt": "کالای خوراکی و اساسی"
+    },
+    {
+      "id": "0513",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/af02140ea60e0fd478b09b279976a095c95615b6_1692601283.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "محصولات بومی و محلی",
+      "alt": "محصولات بومی و محلی"
+    },
+    {
+      "id": "a5fa",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/8f80e75e4c2dca42ee0538e100c7a7b05455aa88_1692600287.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "کالای دیجیتال",
+      "alt": "کالای دیجیتال"
+    },
+    {
+      "id": "be7a",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/0cefa48f5c58adbbde8c5a76b22ee49de0e667f5_1692600876.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "ابزار آلات و تجهیزات",
+      "alt": "ابزار آلات و تجهیزات"
+    },
+    {
+      "id": "8e00",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/1c44d5964f259e0725ec86ca9739de888f1862c7_1692600975.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "ورزش و سفر",
+      "alt": "ورزش و سفر"
+    },
+    {
+      "id": "3863",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/a8579f44936c7fdff292b005a5d927601cb67cb9_1714224510.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "تجهیزات پزشکی و سلامت",
+      "alt": "تجهیزات پزشکی و سلامت"
+    },
+    {
+      "id": "f5d7",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/1c44d5964f259e0725ec86ca9739de888f1862c7_1692600975.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "اسپیکر ",
+      "alt": "اسپیکر "
+    },
+    {
+      "id": "208c",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/c16b7dff700a9d99880174c32ec233d20ddb531c_1703057953.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "لوازم خانگی برقی",
+      "alt": "لوازم خانگی برقی"
+    },
+    {
+      "id": "4d74",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/3582bbed0a53318c2332d2c79b051b226f02a3bb_1725653934.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "کتاب",
+      "alt": "کتاب"
+    },
+    {
+      "id": "3e92",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/aba1e5dca8958ac1176e25cd194ff8ac622cd383_1725653953.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "موبایل",
+      "alt": "موبایل"
+    },
+    {
+      "id": "3e4e",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/0c46d2532d61dd3a5b6a3afc17552c23c1b4d39e_1692600773.png?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "اسباب بازی",
+      "alt": "اسباب بازی"
+    }
+  ],
+  "yourTaste": [
+    {
+      "id": "1",
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/1a792bb42d5f28527b76b82429182b00eae02dc7_1636492340.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/03960695e2f560a3038eb59cfea5fae4d51a8467_1698408728.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/a12146d3a3e725b20f48207ffffecd56688aa46b_1671470251.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/d2dfb98ae6488adbd868ad3497456fdb6700d3b7_1668858888.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "کیس و کاور"
+    },
+    {
+      "id": "2",
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/702e53913afe06104118ad2d10b11c2da7a732d1_1689423092.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/318f746610a2c12b4cb9552be333abc2177373d0_1627839393.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/eb12f7e9255555b0b59eb7441391e3b9f7f3c57e_1612778877.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/120043573.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "سه تار"
+    },
+    {
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/64dd94f2aa2ecf82319b38eac9ea7ecf270b0b7c_1594152358.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/0de6118d78f8eb951fda664e2a4ecc6e28e4fb12_1700083300.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/d31fa7b7dd6a180dca6b0167c172e2729af618f5_1637140543.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/1ac8522386ddeabd3cb9dbddc3f02630d07360c8_1703517138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "سایر لوازم جانبی آلات موسیقی",
+      "id": "3"
+    },
+    {
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/5984bf810c6b9ff6a1642a6b3e479b1e5fcb97e0_1646843936.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/73b9d5cd10ae766b5429c4d0bdd7a35e9087d810_1606224805.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/113041050.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/864ad005967f8c345b838a8155cb11c052186256_1609222982.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "سیم آلات موسیقی",
+      "id": "4"
+    },
+    {
+      "id": "8432",
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/188332.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/42b735e798dda0ce78f819aeeb004de8e022c115_1643034348.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/7a112fad576a7a907441324485fa6f538466607e_1606229883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/28712.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "سیم گیتار"
+    },
+    {
+      "id": "e9fe",
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/d12b048d380285c403ae996b0b7b7fc6bfb62915_1703056135.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/f60daa3e6f57a557eec30f3b300c8703b8cc4d78_1703056062.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/afb87d877e80c96c4e8883d93575b087d43adf9f_1703056088.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/3e03c8aacf0e1b37b023f4527095e4e526235bb3_1694611758.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "شوینده ظروف"
+    },
+    {
+      "id": "ef08",
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/6351646b519039211af7cf8caae533e2b0705b85_1646323553.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/5446368.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/77b224461d81087727c95d9c30be0d051d67f717_1617121432.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/f3043876defbf1ab42a96682b8c116a8d2eddd52_1636455909.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "کیس و کاور"
+    },
+    {
+      "id": "d442",
+      "image1": "https://dkstatics-public.digikala.com/digikala-products/df10cc2fe82bca5bd8146363e03648d5ed099d7b_1692291181.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image2": "https://dkstatics-public.digikala.com/digikala-products/38e0615b685f35eaab02a4ba5c4a241641ab1659_1698087596.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image3": "https://dkstatics-public.digikala.com/digikala-products/89d3c1b274a407c2665c29560e64ecef3ecd29d4_1617457290.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image4": "https://dkstatics-public.digikala.com/digikala-products/4897154.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "ظرف نگهدارنده"
+    }
+  ],
+  "offers": [
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/f0d3ab9abc4b8700de602ca65bdf6863c87d78c6_1727518426.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "shoes",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/d96e7ea767ac9c2f0e4dc0316a625a276c5716df_1716971139.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "watch"
+    },
+    {
+      "id": "3",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5e124f3f520c85b07b264c293397d04a55afe2ef_1727683322.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "perfume"
+    },
+    {
+      "id": "4",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/abb3008fbded4fe744310e335dc6a8b8898c6159_1707047699.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "cream"
+    },
+    {
+      "id": "b3b0",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5e124f3f520c85b07b264c293397d04a55afe2ef_1727683322.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "perfume"
+    }
+  ],
+  "amazingSupermarket": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3284348.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "rob",
+      "discount": "۶۵"
+    },
+    {
+      "id": "2",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1674810d2f95ef8edec31d2a65388a85f1ba3f4a_1724245617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "fairy",
+      "discount": "۴۵"
+    },
+    {
+      "id": "5",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3284348.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "rob",
+      "discount": "۶۵"
+    },
+    {
+      "id": "6",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1674810d2f95ef8edec31d2a65388a85f1ba3f4a_1724245617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "fairy",
+      "discount": "۴۵"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-products/110176622.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "قرص ماشين ظرفشويی",
+      "discount": "۶۴",
+      "id": "0d91"
+    },
+    {
+      "id": "6098",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112360452.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپیکر ",
+      "discount": "۳۷"
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/2c36ceb629598fa31b9b321fcd4e47773bd93ef7_1649498016.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "پریل"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "پرسیل",
+      "id": "2"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/6091.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "کینگ",
+      "id": "3"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/1800.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "آداتا",
+      "id": "4"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/af664f0bcf9bc412b741c618e6e52fc2d090198f_1619269008.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "هاوایی",
+      "id": "5"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/7857.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "پگاه",
+      "id": "6"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/5a10ae95eb42fc96906c8062563b28062668d418_1722238640.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "چینی زرین",
+      "id": "7"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/3f0e8a262651232007912c06d7cd69f7d9b4bfa4_1662306119.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "پنتر",
+      "id": "8"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "سامسونگ",
+      "id": "9"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/1313.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "لا فارر",
+      "id": "10"
+    },
+    {
+      "id": "ed33",
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/3972.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+      "alt": "مای"
+    }
+  ],
+  "bestseller": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aa6c900917f0cfb63c85c832d5ef68ccc8765209_1694525475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "گوشی موبایل",
+      "title": "گوشی موبایل آلکاتل مدل 1069 دو سیم کارت"
+    },
+    {
+      "id": "2",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4f18be9ca722024a67c4ab1e7dc939a99781ecf4_1716640871.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپاگتی",
+      "title": "اسپاگتی قطر 1.6 مانا مقدار 500 گرم"
+    },
+    {
+      "id": "3",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aa6c900917f0cfb63c85c832d5ef68ccc8765209_1694525475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "گوشی موبایل",
+      "title": "گوشی موبایل آلکاتل مدل 1069 دو سیم کارت"
+    },
+    {
+      "id": "5",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aa6c900917f0cfb63c85c832d5ef68ccc8765209_1694525475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "گوشی موبایل",
+      "title": "گوشی موبایل آلکاتل مدل 1069 دو سیم کارت"
+    },
+    {
+      "id": "6",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4f18be9ca722024a67c4ab1e7dc939a99781ecf4_1716640871.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپاگتی",
+      "title": "اسپاگتی قطر 1.6 مانا مقدار 500 گرم"
+    },
+    {
+      "id": "7",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aa6c900917f0cfb63c85c832d5ef68ccc8765209_1694525475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "گوشی موبایل",
+      "title": "گوشی موبایل آلکاتل مدل 1069 دو سیم کارت"
+    },
+    {
+      "id": "8",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4f18be9ca722024a67c4ab1e7dc939a99781ecf4_1716640871.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپاگتی",
+      "title": "اسپاگتی قطر 1.6 مانا مقدار 500 گرم"
+    },
+    {
+      "id": "9",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aa6c900917f0cfb63c85c832d5ef68ccc8765209_1694525475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "گوشی موبایل",
+      "title": "گوشی موبایل آلکاتل مدل 1069 دو سیم کارت"
+    },
+    {
+      "id": "10",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4f18be9ca722024a67c4ab1e7dc939a99781ecf4_1716640871.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپاگتی",
+      "title": "اسپاگتی قطر 1.6 مانا مقدار 500 گرم"
+    },
+    {
+      "id": "11",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aa6c900917f0cfb63c85c832d5ef68ccc8765209_1694525475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "گوشی موبایل",
+      "title": "گوشی موبایل آلکاتل مدل 1069 دو سیم کارت"
+    },
+    {
+      "id": "12",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4f18be9ca722024a67c4ab1e7dc939a99781ecf4_1716640871.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "اسپاگتی",
+      "title": "اسپاگتی قطر 1.6 مانا مقدار 500 گرم"
+    },
+    {
+      "id": "13",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4780647.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "خامه",
+      "title": "خامه فرادما پگاه مقدار 200 میلی لیتر"
+    },
+    {
+      "id": "14",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/41cc534bba6d5f3e3b6ec57cde8e58e7ebd3bc62_1700992601.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "پودر ماشین لباسشویی",
+      "title": "پودر ماشین لباسشویی سافتلن سری Gold Selection مدل Perfect And Shine مقدار 500 گرم"
+    },
+    {
+      "id": "15",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ad6854c3ac0aeae551e31d70b0f69ac651fa9c19_1653729496.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "روغن آفتابگردان ",
+      "title": "روغن آفتابگردان حاوی توکوفرول غنچه پلاس - 1800 میلی لیتر"
+    }
+  ],
+  "discounts": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "2",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "3",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "5",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "6",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "7",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "8",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "9",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "10",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "11",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19984b76b27bb70d2766722193965043a084b6bb_1707842248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "iPhone",
+      "newPrice": "۷۴,۹۰۰",
+      "oldPrice": "۹۵,۹۰۰",
+      "discount": "۲۰"
+    },
+    {
+      "id": "12",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/003e25604e96c9e135289ea6a136e1cb8518221b_1722769243.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "",
+      "newPrice": "۱,۲۰۰,۰۰۰",
+      "oldPrice": "۱,۶۰۰,۰۰۰",
+      "discount": "25"
+    }
+  ],
+  "hot": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/be9c60d795abcd37129823e480de681ff2f4c267_1726393964.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "عینک آفتابی امریکن ",
+      "title": "عینک آفتابی امریکن اوپتیکال مدل SKY MASTER AVATOR COL B"
+    },
+    {
+      "id": "2",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1dbb05020bf897519129550896e4bfc176a904cd_1718771187.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "ساعت هوشمند",
+      "title": "ساعت هوشمند ورنا مدل W45 Max With 7 Bands"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-products/03763589163983d9d97e4f6d3c9f5befc7153c01_1707056703.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "مانیتور  شیائومی ",
+      "title": "مانیتور  شیائومی مدل RMMNT27NQ سایز 27 اینچ",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1dbb05020bf897519129550896e4bfc176a904cd_1718771187.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "ساعت هوشمند",
+      "title": "ساعت هوشمند ورنا مدل W45 Max With 7 Bands"
+    },
+    {
+      "id": "5",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/be9c60d795abcd37129823e480de681ff2f4c267_1726393964.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "عینک آفتابی امریکن ",
+      "title": "عینک آفتابی امریکن اوپتیکال مدل SKY MASTER AVATOR COL B"
+    },
+    {
+      "id": "6",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1dbb05020bf897519129550896e4bfc176a904cd_1718771187.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "ساعت هوشمند",
+      "title": "ساعت هوشمند ورنا مدل W45 Max With 7 Bands"
+    },
+    {
+      "id": "7",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/be9c60d795abcd37129823e480de681ff2f4c267_1726393964.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "عینک آفتابی امریکن ",
+      "title": "عینک آفتابی امریکن اوپتیکال مدل SKY MASTER AVATOR COL B"
+    },
+    {
+      "id": "8",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1dbb05020bf897519129550896e4bfc176a904cd_1718771187.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "ساعت هوشمند",
+      "title": "ساعت هوشمند ورنا مدل W45 Max With 7 Bands"
+    },
+    {
+      "id": "9",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/be9c60d795abcd37129823e480de681ff2f4c267_1726393964.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "عینک آفتابی امریکن ",
+      "title": "عینک آفتابی امریکن اوپتیکال مدل SKY MASTER AVATOR COL B"
+    },
+    {
+      "id": "10",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1dbb05020bf897519129550896e4bfc176a904cd_1718771187.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "ساعت هوشمند",
+      "title": "ساعت هوشمند ورنا مدل W45 Max With 7 Bands"
+    },
+    {
+      "id": "11",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/be9c60d795abcd37129823e480de681ff2f4c267_1726393964.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "عینک آفتابی امریکن ",
+      "title": "عینک آفتابی امریکن اوپتیکال مدل SKY MASTER AVATOR COL B"
+    },
+    {
+      "id": "12",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1dbb05020bf897519129550896e4bfc176a904cd_1718771187.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "ساعت هوشمند",
+      "title": "ساعت هوشمند ورنا مدل W45 Max With 7 Bands"
+    }
+  ],
+  "offersTwo": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/6194d4fbecac1fb0b9f7e2fe2242e66f7b9d5c81_1728309463.gif?x-oss-process=image?x-oss-process=image/format,webp",
+      "alt": "pad"
+    },
+    {
+      "id": "2",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/615e3b87cb6190f5649b8c6aff3681ed36696070_1727885290.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "sneakers"
+    }
+  ],
+  "access": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/e4de6f360fcda4f501f21419ba40a100460740cd_1727699701.png",
+      "title": "دریافت وام",
+      "alt": "دریافت وام",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "id": "4",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/f13fd91286fda519baef426b2abc2b8766901b90_1734788121.png",
+      "title": "شگفت‌انگیزش کن",
+      "alt": "wow",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/4bb0b7006012e541a6a4002242d1bfe863296e4f_1713545982.png",
+      "title": "حراج سر ماه",
+      "alt": "discount",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "id": "9",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "id": "10",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/365cee4a35f36339b4f45dfd7d6a23c0c470b178_1727616870.png",
+      "title": "نورسیده‌های طلا",
+      "alt": "نورسیده‌های طلا",
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/5078e83a12dae85d01b7fb4c88fff8d3cdc2ca72_1727769636.png",
+      "alt": "market",
+      "title": "سوپرمارکت دیجی‌کالا"
+    },
+    {
+      "id": "13",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/33ed3240e53d76c605ac9a0ba359be2a560089fb_1727769445.png",
+      "title": "کارت هدیه",
+      "alt": "کارت هدیه"
+    },
+    {
+      "id": "14",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/bb03641a188f3a74ec493d0790da87074492f64b_1708970740.png",
+      "alt": "خرید چکی",
+      "title": "خرید چکی"
+    }
+  ],
+  "banner": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/eb2c420a100975f4e68e017d7338b5d1310af82d_1728136131.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "alt": "banner"
+    }
+  ],
+  "footer": [
+    {
+      "id": "1",
+      "title": "با دیجی‌کالا",
+      "li1": "اتاق خبر دیجی‌کالا",
+      "li2": "فروش در دیجی‌کالا",
+      "li3": "فرصت‌های شغلی",
+      "li4": "گزارش تخلف در دیجی‌کالا",
+      "li5": "تماس با دیجی‌کالا",
+      "li6": "درباره دیجی‌کالا"
+    },
+    {
+      "title": "خدمات مشتریان",
+      "li1": "اتاق خبر دیجی‌کالا",
+      "li2": "فروش در دیجی‌کالا",
+      "li3": "فرصت‌های شغلی",
+      "li4": "گزارش تخلف در دیجی‌کالا",
+      "li5": "تماس با دیجی‌کالا",
+      "li6": "درباره دیجی‌کالا",
+      "id": "2"
+    },
+    {
+      "title": "راهنمای خرید از دیجی‌کالا",
+      "li1": "اتاق خبر دیجی‌کالا",
+      "li2": "فروش در دیجی‌کالا",
+      "li3": "فرصت‌های شغلی",
+      "li4": "گزارش تخلف در دیجی‌کالا",
+      "li5": "تماس با دیجی‌کالا",
+      "li6": "درباره دیجی‌کالا",
+      "id": "3"
+    },
+    {
+      "id": "3",
+      "title": "با دیجی‌کالا",
+      "li1": "اتاق خبر دیجی‌کالا",
+      "li2": "فروش در دیجی‌کالا",
+      "li3": "فرصت‌های شغلی",
+      "li4": "گزارش تخلف در دیجی‌کالا",
+      "li5": "تماس با دیجی‌کالا",
+      "li6": "درباره دیجی‌کالا"
+    }
+  ],
+  "login": [
+    {
+      "id": "ala",
+      "password": "alapass"
+    },
+    {
+      "id": "admin",
+      "password": "adminpass"
+    },
+    {
+      "id": "mamad",
+      "password": "mamadpass"
+    }
+  ]
+}
